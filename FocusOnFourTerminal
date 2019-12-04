@@ -1,0 +1,5 @@
+Use Keyboard Shortcuts
+Alt + W: xte 'mousemove 400 400' 'mouseclick 1'
+Alt + S: xte 'mousemove 400 800' 'mouseclick 1'
+Alt + E: xte 'mousemove 1200 400' 'mouseclick 1'
+Alt + D: xte 'mousemove 1200 800' 'mouseclick 1'
